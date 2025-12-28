@@ -28,7 +28,7 @@ A full-stack hotel search application for ski resorts built with React, TypeScri
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/ChaimCymerman0548492309/weski-fullstack-assignment
 cd weski-fullstack-assignment
 
 # Install dependencies
